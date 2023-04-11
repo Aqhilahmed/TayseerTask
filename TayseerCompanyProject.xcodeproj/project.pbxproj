@@ -96,6 +96,14 @@
 			path = ViewControllers;
 			sourceTree = "<group>";
 		};
+		AA7E9E8529E59B7800864D01 /* TableViewClass */ = {
+			isa = PBXGroup;
+			children = (
+				AA98922029E4558200DE453A /* CountrylistTVC.swift */,
+			);
+			path = TableViewClass;
+			sourceTree = "<group>";
+		};
 		AA9891DF29E4163600DE453A = {
 			isa = PBXGroup;
 			children = (
@@ -122,7 +130,7 @@
 				AA9891EB29E4163600DE453A /* AppDelegate.swift */,
 				AA9891ED29E4163600DE453A /* SceneDelegate.swift */,
 				AA7E9E8429E5793500864D01 /* ViewControllers */,
-				AA98922029E4558200DE453A /* CountrylistTVC.swift */,
+				AA7E9E8529E59B7800864D01 /* TableViewClass */,
 				AA9891F129E4163600DE453A /* Main.storyboard */,
 				AA9891F729E4163600DE453A /* Assets.xcassets */,
 				AA9891F929E4163600DE453A /* LaunchScreen.storyboard */,
